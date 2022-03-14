@@ -14,7 +14,7 @@ My name is Jonah. I am a 18 year old Full Stack Developer and Graphic Designer f
 
 ### PUBLIC PROJECTS:
 
-- ℹ️ &nbsp; Coming Soon!
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ImJonahCodes&repo=my-website&theme=github_dark&show_owner)](https://github.com/anuraghazra/github-readme-stats)
 
 ### LANGUAGES:
 
@@ -28,9 +28,12 @@ My name is Jonah. I am a 18 year old Full Stack Developer and Graphic Designer f
 
 ### ⚙️ &nbsp;GitHub Stats
 
-<p align="left">
-<a href="https://github.com/ImJonahCodes">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ImJonahCodes&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ImJonahCodes&layout=compact&langs_count=8&theme=react"/>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ImJonahCodes&theme=github_dark&show_icons=true" />
 </a>
-</p>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=JonahCodes&theme=github_dark&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImJonahCodes&theme=github_dark&show_icons=true" />
+</a>
