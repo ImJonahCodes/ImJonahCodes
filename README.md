@@ -7,7 +7,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)]((https://jonahcodes.com))
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-ffffff?style=flat-square&logo=Github&logoColor=black)](https://github.com/ImJonahCodes)
 
-### ABOUT ME! &nbsp; ![](https://komarev.com/ghpvc/?username=JakeHamblin&label=Views&color=blue&style=plastic) 
+### ABOUT ME! &nbsp; ![](https://komarev.com/ghpvc/?username=ImJonahCodes&label=Views&color=blue&style=plastic) 
 
 My name is Jonah. I am a 18 year old Full Stack Developer and Graphic Designer from Pennsylvania. I am experienced in HTML, CSS, JavaScript, PHP, NodeJS, Python, Swift and Objective-C. I like to code on my free time and create projects and do work for clients.
 
